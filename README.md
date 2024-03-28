@@ -1,5 +1,6 @@
-<div style="align:center;">
- ### Hi there 👋 
+
+<div style="text-align:center;">
+ <b>Hi there 👋</b> 
 </div>
 
 
