@@ -80,7 +80,7 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang saya
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /><br>C++
       </td>
       <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/bulma.png" alt="Bulma" /><br>Bulma
+        <img src="https://s10.gifyu.com/images/Sfg04.png" alt="Bulma" /><br>Bulma
       </td>
     </tr>
     <tr>
