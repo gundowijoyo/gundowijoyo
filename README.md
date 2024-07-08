@@ -93,8 +93,8 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang saya
 
 ## 📫 Kontak Saya
 
-- [GitHub](https://github.com/username)
+- [GitHub](https://github.com/gundowijoyo)
 - [LinkedIn](https://linkedin.com/in/username)
-- [Email](mailto:username@example.com)
+- [Email](gundowijoyo7@gmail.com)
 
 Terima kasih telah berkunjung! Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin bekerja sama dalam proyek.
