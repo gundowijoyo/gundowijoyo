@@ -9,11 +9,9 @@
 
 # Halo, Selamat Datang di Profil GitHub Saya!
 
-Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang saya kuasai. Saya menggunakan ikon dari Icon8 untuk merepresentasikan keterampilan saya.
+Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pernah saya pelajari. Saya menggunakan ikon dari Icon8 untuk merepresentasikan keterampilan saya.
 
-
-
-## 🚀 Skill yang Dikuasai
+## 🚀 Skill or experience in tech language.
 
 <div align="center">
   <table>
