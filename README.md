@@ -89,7 +89,9 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
   </table>
 </div>
 
-## 📫 Kontak Saya
+## device used for coding
+ Handphone.
+
 
 - [GitHub](https://github.com/gundowijoyo)
 - [LinkedIn](https://linkedin.com/in/username)
