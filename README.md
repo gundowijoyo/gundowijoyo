@@ -28,7 +28,7 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
     </tr>
     <tr>
       <td align="center" width="200">
-        <img src="https://s10.gifyu.com/images/SfgCO.png" alt="PHP" /><br>PHP
+        <img src="https://s10.gifyu.com/images/SfgCO.png" width="50" alt="PHP" /><br>PHP
       </td>
       <td align="center" width="200">
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /><br>Python
@@ -78,9 +78,10 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /><br>C++
       </td>
       <td align="center" width="200">
-        <img src="https://s10.gifyu.com/images/Sfg04.png" alt="Bulma" /><br>Bulma
+        <img src="https://s10.gifyu.com/images/Sfg04.png"width="50" alt="Bulma" /><br>Bulma
       </td>
     </tr>
+
   <tr>
       <td align="center" width="200">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery" /><br>jQuery 
@@ -88,12 +89,27 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
 
 
       <td align="center" width="200">
-        <img src="https://s10.gifyu.com/images/Sfg6M.png" alt="" /><br>Vite  </td>
+        <img src="https://s10.gifyu.com/images/Sfg6M.png"width="40" alt="" /><br>Vite  </td>
   
       <td align="center" width="200">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="Daisy UI" /><br>Daisy UI
+        <img src="https://s12.gifyu.com/images/SfgUZ.png" width="40"alt="Ts"
+        /><br>Typescript 
       </td>
     </tr>
+    
+  <tr>
+      <td align="center" width="200">
+        <img src="https://s10.gifyu.com/images/Sfg0P.png"width="40" alt="Nuxt " /><br>Nuxt
+      </td>
+
+
+      <td align="center" width="200">
+        <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="svelte"
+        /><br>Svelte </td>
+  
+
+    </tr>
+    
   </table>
 </div>
 
