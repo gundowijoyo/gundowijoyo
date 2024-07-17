@@ -122,3 +122,4 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
 <a href="https://saweria.co/GundoWijoyo">Visit Saweria</a>
 
 Terima kasih telah berkunjung! Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin bekerja sama dalam proyek.
+<b><u>#Terusbelajarselamannya</u></b>
