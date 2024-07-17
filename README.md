@@ -81,11 +81,22 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
         <img src="https://s10.gifyu.com/images/Sfg04.png" alt="Bulma" /><br>Bulma
       </td>
     </tr>
- <!--   <tr>
+  <tr>
       <td align="center" width="200">
-        <img src="https://img.icons8.com/color/48/000000/daisyui.png" alt="Daisy UI" /><br>Daisy UI
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery" /><br>jQuery 
       </td>
-    </tr>-->
+    </tr>
+
+  <tr>
+      <td align="center" width="200">
+        <img src="https://s10.gifyu.com/images/Sfg6M.png" alt="" /><br>Vite  </td>
+    </tr>
+
+  <tr>
+      <td align="center" width="200">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="Daisy UI" /><br>Daisy UI
+      </td>
+    </tr>
   </table>
 </div>
 
