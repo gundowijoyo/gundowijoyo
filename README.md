@@ -7,6 +7,14 @@
 </samp>
 </h1>
 
+<div style="display:flex;">
+
+ <span>Name</span>-> <strong>Gundo wijoyo</strong>
+ <span>gender</span>-> <strong>man</strong>
+   <span>Age</span>-> <strong>17</strong>
+</div>
+
+
 # Halo, Selamat Datang di Profil GitHub Saya!
 
 Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pernah saya pelajari. Saya menggunakan ikon dari Icon8 untuk merepresentasikan keterampilan saya.
