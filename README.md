@@ -81,11 +81,11 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
         <img src="https://s10.gifyu.com/images/Sfg04.png" alt="Bulma" /><br>Bulma
       </td>
     </tr>
-    <tr>
+ <!--   <tr>
       <td align="center" width="200">
         <img src="https://img.icons8.com/color/48/000000/daisyui.png" alt="Daisy UI" /><br>Daisy UI
       </td>
-    </tr>
+    </tr>-->
   </table>
 </div>
 
@@ -94,7 +94,6 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
 
 
 - [GitHub](https://github.com/gundowijoyo)
-- [LinkedIn](https://linkedin.com/in/username)
 - [Email](gundowijoyo7@gmail.com)
 
 ## Saweria 
