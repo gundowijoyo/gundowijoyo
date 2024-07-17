@@ -86,17 +86,11 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
       <td align="center" width="200">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery" /><br>jQuery 
       </td>
-
-
-      <td align="center" width="200">
-        <img src="https://s10.gifyu.com/images/Sfg6M.png"width="40" alt="" /><br>Vite  </td>
-  
-      <td align="center" width="200">
-        <img src="https://s12.gifyu.com/images/SfgUZ.png" width="40"alt="Ts"
+<td align="center" width="200"> <img src="https://s10.gifyu.com/images/Sfg6M.png"width="40" alt="" /<br>Vite  </td>
+<td align="center" width="200"><img src="https://s12.gifyu.com/images/SfgUZ.png" width="40"alt="Ts"
         /><br>Typescript 
       </td>
     </tr>
-    
 <tr>
 <td align="center"width="200"> <img src="https://s10.gifyu.com/images/Sfg0P.png"width="40" alt="Nuxt " /><br>Nuxt
  </td>
