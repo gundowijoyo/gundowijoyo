@@ -97,14 +97,14 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
       </td>
     </tr>
     
-  <tr>
+<tr>
       <td align="center" width="200">
         <img src="https://s10.gifyu.com/images/Sfg0P.png"width="40" alt="Nuxt " /><br>Nuxt
       </td>
 
 
       <td align="center" width="200">
-        <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="svelte"
+ <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="svelte"
         /><br>Svelte </td>
   
 
