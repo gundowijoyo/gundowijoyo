@@ -11,7 +11,7 @@
 
  <span>Name</span>-> <strong>Gundo wijoyo</strong>
  <span>gender</span>-> <strong>man</strong>
-   <span>Age</span>-> <strong>17</strong>
+   <span>Age</span>-> <strong>18</strong>
 </div>
 
 
