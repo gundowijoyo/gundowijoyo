@@ -1,25 +1,21 @@
-
-
 <h1 align="center">
-<samp>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>, I am<a target="_blank" href=""> Gundo wijoyo</a>
+<samp>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>, I am <a target="_blank" href="">Gundo Wijoyo</a>
 
-  <h2>I am a junior full stack web developer</h2>
+<h2>I am a junior full stack web developer</h2>
 </samp>
 </h1>
 
-<div style="display:flex;">
-
- <span>Name</span>-> <strong>Gundo wijoyo</strong>
- <span>gender</span>-> <strong>man</strong>
-   <span>Age</span>-> <strong>17</strong>
+<div align="center" style="display:flex; justify-content:center; gap: 10px;">
+  <span><strong>Name:</strong> Gundo Wijoyo</span>
+  <span><strong>Gender:</strong> Man</span>
+  <span><strong>Age:</strong> 17</span>
 </div>
 
+# Hello, Welcome to My GitHub Profile!
 
-# Halo, Selamat Datang di Profil GitHub Saya!
+I'm glad you stopped by! Below are some of the skills I've learned. I use icons from Icon8 to represent my skills.
 
-Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pernah saya pelajari. Saya menggunakan ikon dari Icon8 untuk merepresentasikan keterampilan saya.
-
-## 🚀 Skill or experience in tech language.
+## 🚀 Skills and Experience in Tech Languages
 
 <div align="center">
   <table>
@@ -86,40 +82,39 @@ Saya senang Anda berkunjung! Di bawah ini adalah beberapa keterampilan yang pern
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /><br>C++
       </td>
       <td align="center" width="200">
-        <img src="https://s10.gifyu.com/images/Sfg04.png"width="50" alt="Bulma" /><br>Bulma
+        <img src="https://s10.gifyu.com/images/Sfg04.png" width="50" alt="Bulma" /><br>Bulma
       </td>
     </tr>
-
-  <tr>
+    <tr>
       <td align="center" width="200">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery" /><br>jQuery 
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery" /><br>jQuery
       </td>
-<td align="center" width="200"> <img src="https://s10.gifyu.com/images/Sfg6M.png"width="40" alt="" /<br>Vite  </td>
-<td align="center" width="200"><img src="https://s12.gifyu.com/images/SfgUZ.png" width="40"alt="Ts"
-        /><br>Typescript 
+      <td align="center" width="200">
+        <img src="https://s10.gifyu.com/images/Sfg6M.png" width="40" alt="Vite" /><br>Vite
+      </td>
+      <td align="center" width="200">
+        <img src="https://s12.gifyu.com/images/SfgUZ.png" width="40" alt="TypeScript" /><br>TypeScript
       </td>
     </tr>
-<tr>
-<td align="center"width="200"> <img src="https://s10.gifyu.com/images/Sfg0P.png"width="40" alt="Nuxt " /><br>Nuxt
- </td>
-<td align="center" width="200">
- <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="svelte"
-        /><br>Svelte 
-</td>
-</tr>
-    
+    <tr>
+      <td align="center" width="200">
+        <img src="https://s10.gifyu.com/images/Sfg0P.png" width="40" alt="Nuxt" /><br>Nuxt
+      </td>
+      <td align="center" width="200">
+        <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="Svelte" /><br>Svelte
+      </td>
+    </tr>
   </table>
 </div>
 
-## device used for coding
- Handphone.
-
+## Device Used for Coding
+- Handphone.
 
 - [GitHub](https://github.com/gundowijoyo)
-- [Email](gundowijoyo7@gmail.com)
+- [Email](mailto:gundowijoyo7@gmail.com)
 
-## Saweria 
+## Saweria
 <a href="https://saweria.co/GundoWijoyo">Visit Saweria</a>
 
-Terima kasih telah berkunjung! Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan atau ingin bekerja sama dalam proyek.
-<b><u>#Terusbelajarselamannya</u></b>
+Thank you for visiting! Feel free to contact me if you have any questions or want to collaborate on a project.
+<b><u>#KeepLearningForever</u></b>
