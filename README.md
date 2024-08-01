@@ -18,7 +18,7 @@ I'm glad you stopped by! Below are some of the skills I've learned. I use icons 
 ## 🚀 Skills and Experience in Tech Languages
 
 <div align="center" style="overflow: hidden; white-space: nowrap; box-sizing: border-box;">
-  <div style="display: inline-block; padding-left: 100%; animation: marquee 20s linear infinite;">
+  <div style="display: inline-block; padding-left: 100%; animation: marquee 20s linear infinite; @keyframes marquee { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); }}">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="display: inline-block; width: 48px; margin: 0 20px;" />
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="display: inline-block; width: 48px; margin: 0 20px;" />
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="display: inline-block; width: 48px; margin: 0 20px;" />
@@ -44,13 +44,6 @@ I'm glad you stopped by! Below are some of the skills I've learned. I use icons 
     <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="Svelte" style="display: inline-block; margin: 0 20px;" />
   </div>
 </div>
-
-<style>
-@keyframes marquee {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-100%); }
-}
-</style>
 
 ## Device Used for Coding
 - Handphone.
