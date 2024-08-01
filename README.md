@@ -1,7 +1,7 @@
 <h1 align="center">
 <samp>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>, I am <a target="_blank" href="">Gundo Wijoyo</a>
 
-<h2>I am a junior full stack web developer</h2>
+<h2>I am a full stack web developer</h2>
 </samp>
 </h1>
 
