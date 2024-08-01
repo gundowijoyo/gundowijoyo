@@ -22,8 +22,6 @@ I'm glad you stopped by! Below are some of the skills I've learned. I use icons 
     <!-- Eyes -->
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="display: inline-block; width: 48px; margin: 0 5px;" />
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="display: inline-block; width: 48px; margin: 0 5px;" />
-    
-    <!-- Nose -->
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="display: inline-block; width: 48px; margin: 0 5px;" />
     
     <!-- Mouth -->
