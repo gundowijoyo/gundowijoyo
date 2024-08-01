@@ -19,29 +19,44 @@ I'm glad you stopped by! Below are some of the skills I've learned. I use icons 
 
 <div align="center" style="overflow: hidden; white-space: nowrap; box-sizing: border-box;">
   <div style="display: inline-block; padding-left: 100%; animation: marquee 20s linear infinite; @keyframes marquee { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); }}">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/SfgCO.png" width="50" alt="PHP" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/Sfg04.png" width="50" alt="Bulma" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery" style="display: inline-block; width: 24px; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/Sfg6M.png" width="40" alt="Vite" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://s12.gifyu.com/images/SfgUZ.png" width="40" alt="TypeScript" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/Sfg0P.png" width="40" alt="Nuxt" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="Svelte" style="display: inline-block; margin: 0 20px;" />
+    <!-- Eyes -->
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    
+    <!-- Nose -->
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    
+    <!-- Mouth -->
+    <img src="https://s10.gifyu.com/images/SfgCO.png" width="50" alt="PHP" style="display: inline-block; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    
+    <!-- Cheeks -->
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    
+    <!-- Chin -->
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    
+    <!-- Ears -->
+    <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    
+    <!-- Hair -->
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="display: inline-block; width: 48px; margin: 0 5px;" />
+    <img src="https://s10.gifyu.com/images/Sfg04.png" width="50" alt="Bulma" style="display: inline-block; margin: 0 5px;" />
+    
+    <!-- Additional icons -->
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery" style="display: inline-block; width: 24px; margin: 0 5px;" />
+    <img src="https://s10.gifyu.com/images/Sfg6M.png" width="40" alt="Vite" style="display: inline-block; margin: 0 5px;" />
+    <img src="https://s12.gifyu.com/images/SfgUZ.png" width="40" alt="TypeScript" style="display: inline-block; margin: 0 5px;" />
+    <img src="https://s10.gifyu.com/images/Sfg0P.png" width="40" alt="Nuxt" style="display: inline-block; margin: 0 5px;" />
+    <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="Svelte" style="display: inline-block; margin: 0 5px;" />
   </div>
 </div>
 
