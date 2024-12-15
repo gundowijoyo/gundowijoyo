@@ -8,7 +8,7 @@
 <div align="center" style="display:flex; justify-content:center; gap: 10px;">
   <span><strong>Name:</strong> Gundo Wijoyo</span>
   <span><strong>Gender:</strong> Man</span>
-  <span><strong>Age:</strong> 17</span>
+  <span><strong>Age:</strong> 18</span>
 </div>
 
 # Hello, Welcome to My GitHub Profile!
