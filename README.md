@@ -139,7 +139,33 @@ Jika kamu merasa terbantu atau ingin mendukung karya saya:
 ### 📫 Connect with Me
 
 <p>
-  <a href="mailto:gundowijoyo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/gundowijoyo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/gundowijoyo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <!-- Email -->
+  <a href="mailto:gundowijoyo@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/gundowijoyo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@gundowijoyo" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/gundowijoyo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/gundowijoyo" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@gundowijoyo" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+  </a>
 </p>
