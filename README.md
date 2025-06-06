@@ -12,7 +12,7 @@
 ### 💡 About Me
 
 - 🔭 I’m currently working on **full-stack web development projects**
-- 🌱 I’m currently learning **Next.js, Prisma, and GraphQL**
+- 🌱 I’m currently learning **Nuxt.js, Prisma, and Mysql**
 - 💬 Ask me about **JavaScript, React, Node.js, or anything web**
 - ⚡ Fun fact: I love clean code and keyboard shortcuts!
 
