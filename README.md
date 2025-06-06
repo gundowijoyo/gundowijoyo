@@ -45,12 +45,35 @@
 
 #### 🌐 Frontend
 <p>
+  <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/>
+
+  <!-- UI Libraries & Design Systems -->
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaisyUI-3B82F6?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/>
+
+  <!-- Build Tools -->
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black"/>
+
+  <!-- State Management -->
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=react&logoColor=white"/>
+
+  <!-- CSS in JS -->
+  <img src="https://img.shields.io/badge/Emotion-DB7093?style=flat&logo=emotion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
 </p>
+
 
 #### 🛠️ Backend & Database
 <p>
