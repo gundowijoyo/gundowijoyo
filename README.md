@@ -1,59 +1,108 @@
-<h1 align="center">
-<samp>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>, I am <a target="_blank" href="">Gundo Wijoyo</a>
+<h1 align="center">Hi 👋, I'm Gundowijoyo</h1>
+<h3 align="center">A passionate Full Stack Developer from Indonesia 🇮🇩</h3>
 
-<h2>I am a full stack web developer</h2>
-</samp>
-</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gundowijoyo&label=Profile%20views&color=0e75b6&style=flat" alt="gundowijoyo" />
+  <img src="https://img.shields.io/github/followers/gundowijoyo?label=Followers&style=flat-square" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/gundowijoyo?label=Stars&style=flat-square" alt="stars"/>
+</p>
 
-<div align="center" style="display:flex; justify-content:center; gap: 10px;">
-  <span><strong>Name:</strong> Gundo Wijoyo</span>
-  <span><strong>Gender:</strong> Man</span>
-  <span><strong>Age:</strong> 18</span>
-</div>
+---
 
-# Hello, Welcome to My GitHub Profile!
+### 💡 About Me
 
-I'm glad you stopped by! Below are some of the skills I've learned. I use icons from Icon8 to represent my skills.
+- 🔭 I’m currently working on **full-stack web development projects**
+- 🌱 I’m currently learning **Next.js, Prisma, and GraphQL**
+- 💬 Ask me about **JavaScript, React, Node.js, or anything web**
+- ⚡ Fun fact: I love clean code and keyboard shortcuts!
 
-## 🚀 Skills and Experience in Tech Languages
+---
 
-<div align="center" style="overflow: hidden; white-space: nowrap; box-sizing: border-box;">
-  <div style="display: inline-block; padding-left: 100%; animation: marquee 20s linear infinite;">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/SfgCO.png" width="50" alt="PHP" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" alt="Ruby" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="display: inline-block; width: 48px; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/Sfg04.png" width="50" alt="Bulma" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery" style="display: inline-block; width: 24px; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/Sfg6M.png" width="40" alt="Vite" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://s12.gifyu.com/images/SfgUZ.png" width="40" alt="TypeScript" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/Sfg0P.png" width="40" alt="Nuxt" style="display: inline-block; margin: 0 20px;" />
-    <img src="https://s10.gifyu.com/images/Sfgjl.png" width="40" alt="Svelte" style="display: inline-block; margin: 0 20px;" />
-  </div>
-</div>
+### 🧠 Tech Stack
 
+#### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
 
-## Device Used for Coding
-- Handphone.
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+</p>
 
-- [GitHub](https://github.com/gundowijoyo)
-- [Email](mailto:gundowijoyo7@gmail.com)
+#### 🛠️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-## Saweria
-<a href="https://saweria.co/GundoWijoyo">Visit Saweria</a>
+#### 🔧 Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+</p>
 
-Thank you for visiting! Feel free to contact me if you have any questions or want to collaborate on a project.
-<b><u>#KeepLearningForever</u></b>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gundowijoyo&show_icons=true&theme=gruvbox" alt="stats" />
+</p>
+
+---
+
+### 🔥 Streak & Languages
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gundowijoyo&theme=gruvbox" alt="streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gundowijoyo&layout=compact&theme=gruvbox&hide=html" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gundowijoyo&theme=gruvbox&margin-w=10&no-frame=true"/>
+</p>
+
+---
+
+### ☕ Support Me
+
+Jika kamu merasa terbantu atau ingin mendukung karya saya:
+
+<p align="left">
+  <a href="https://saweria.co/gundowijoyo" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-Donate-orange?style=flat&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://trakteer.id/gundowijoyo" target="_blank">
+    <img src="https://img.shields.io/badge/Trakteer.id-Support-red?style=flat&logo=buymeacoffee&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p>
+  <a href="mailto:gundowijoyo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gundowijoyo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/gundowijoyo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+</p>
