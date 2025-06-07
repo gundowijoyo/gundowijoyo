@@ -140,22 +140,22 @@ Jika kamu merasa terbantu atau ingin mendukung karya saya:
 
 <p>
   <!-- Email -->
-  <a href="mailto:gundowijoyo@example.com" target="_blank">
+  <a href="mailto:gundowijoyo7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/gundowijoyo" target="_blank">
+  <a href="https://www.linkedin.com/in/gundo-wijoyo-7b16b9302" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 
   <!-- TikTok -->
-  <a href="https://www.tiktok.com/@gundowijoyo" target="_blank">
+  <a href="https://www.tiktok.com/@gundo.wijoyo" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/gundowijoyo" target="_blank">
+  <a href="https://www.instagram.com/gundowijoyoo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 
