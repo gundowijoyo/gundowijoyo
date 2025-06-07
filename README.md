@@ -160,7 +160,7 @@ Jika kamu merasa terbantu atau ingin mendukung karya saya:
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/gundowijoyo" target="_blank">
+  <a href="https://www.facebook.com/share/18p9EUFzyi/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
 
