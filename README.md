@@ -123,8 +123,6 @@
 
 ### ☕ Support Me
 
-Jika kamu merasa terbantu atau ingin mendukung karya saya:
-
 <p align="left">
   <a href="https://saweria.co/gundowijoyo" target="_blank">
     <img src="https://img.shields.io/badge/Saweria-Donate-orange?style=flat&logo=ko-fi&logoColor=white"/>
