@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gundowijoyo</h1>
+<h1 align="center">Hi 👋, I'm Gundo Wijoyo</h1>
 <h3 align="center">A passionate Junior Full Stack Developer from Indonesia 🇮🇩</h3>
-<dd>a programmer coding using an android cellphone </dd>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gundowijoyo&label=Profile%20views&color=0e75b6&style=flat" alt="gundowijoyo" />
   <img src="https://img.shields.io/github/followers/gundowijoyo?label=Followers&style=flat-square" alt="followers"/>
@@ -15,7 +14,7 @@
 - 🌱 I’m currently learning **Nuxt.js, Prisma, and Mysql**
 - 💬 Ask me about **JavaScript, React, Node.js, or anything web**
 - ⚡ Fun fact: I love clean code and keyboard shortcuts!
-
+- 📱 A programmer coding using an android cellphone 
 ---
 
 ### 🧠 Tech Stack
