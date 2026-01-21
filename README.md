@@ -135,7 +135,7 @@
 
 <p>
   <!-- Email -->
-  <a href="mailto:gundowijoyo7@gmail.com" target="_blank">
+  <a href="mailto: wijoyodeveloper@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
