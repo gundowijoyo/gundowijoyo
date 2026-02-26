@@ -149,10 +149,10 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
   </a>
 
-  <!-- Instagram -->
+  <!-- Instagram 
   <a href="https://www.instagram.com/gundowijoyo.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
+  </a>-->
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/share/18p9EUFzyi/" target="_blank">
