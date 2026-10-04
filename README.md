@@ -8,7 +8,7 @@
 
 <h3>About Me</h3>
 
-Saya seorang manusia biasa yang kebetulan cukup sering ngobrol sama kode.
+Gw seorang manusia biasa yang kebetulan cukup sering ngobrol sama kode.
 Kadang kodenya jalan, kadang saya yang jalan-jalan mencari bug. 😄
 
 Suka membuat sesuatu dari nol, penasaran dengan hal-hal baru, dan selalu tertarik mencari tahu "kenapa ini bisa begini?"
@@ -17,6 +17,7 @@ Masih belajar, masih bereksperimen, dan sesekali masih bertanya pada diri sendir
 
 «"Ini bug, atau memang fiturnya begitu?" 🤔»
 
+<h3>Code Life</h3>
 
 <h3>Follow Me</h3>
 
