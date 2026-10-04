@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/gundowijoyo?label=Stars&style=flat-square" alt="Stars"/>
 </p>
 
-# About Me
+<h3>About Me</h3>
 
 Saya seorang manusia biasa yang kebetulan cukup sering ngobrol sama komputer.
 Kadang kodenya jalan, kadang saya yang jalan-jalan mencari bug. 😄
