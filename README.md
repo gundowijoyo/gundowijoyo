@@ -8,7 +8,7 @@
 
 <h3>About Me</h3>
 
-Saya seorang manusia biasa yang kebetulan cukup sering ngobrol sama komputer.
+Saya seorang manusia biasa yang kebetulan cukup sering ngobrol sama kode.
 Kadang kodenya jalan, kadang saya yang jalan-jalan mencari bug. 😄
 
 Suka membuat sesuatu dari nol, penasaran dengan hal-hal baru, dan selalu tertarik mencari tahu "kenapa ini bisa begini?"
@@ -18,7 +18,7 @@ Masih belajar, masih bereksperimen, dan sesekali masih bertanya pada diri sendir
 «"Ini bug, atau memang fiturnya begitu?" 🤔»
 
 
-# Follow Me
+<h3>Follow Me</h3>
 
 <p>
   <a href="https://www.instagram.com/gundowijoyo.my.id">
