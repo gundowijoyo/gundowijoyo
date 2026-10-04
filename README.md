@@ -18,7 +18,7 @@ Masih belajar, masih bereksperimen, dan sesekali masih bertanya pada diri sendir
 «"Ini bug, atau memang fiturnya begitu?" 🤔»
 
 <h3>Code Life</h3>
-<img src="life_code.svg" width="100%" height="auto"/>
+<img src="./life_code.svg" width="100%" height="auto"/>
 
 <h3>Follow Me</h3>
 
